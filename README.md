@@ -1,20 +1,9 @@
-<<<<<<< HEAD
-# Space-Explorer
-=======
 # space_explorer
 
-A new Flutter project.
+## 🖼️ Screenshots
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> b8d554e (first commit)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0390ed3c-a292-4851-968c-a248cae2fe04"/>
+    <img src="https://github.com/user-attachments/assets/787c4a8a-388b-445b-accc-fce17cda98aa" width="200"/>
+   <img src="https://github.com/user-attachments/assets/4219b84e-cd21-48eb-a878-e4137ee4591e" width="200"/>
+  <img src="https://github.com/user-attachments/assets/633f32b4-3d4a-4130-83f8-cfe2332f4f62" width="200"/>
