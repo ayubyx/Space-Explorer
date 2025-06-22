@@ -1,4 +1,4 @@
-# space_explorer
+# 🚀 Space Explorer
 
 ## 🖼️ Screenshots
 
